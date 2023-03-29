@@ -1,7 +1,7 @@
 .header{
   height: 200px;
   width: 100%;
-  background-color : #E9EEF6;
+  background-color: #b8c0ff;
   padding-top: 50px;
 }
 
@@ -49,4 +49,14 @@
   flex-wrap: wrap;
   background-color: #F6F7F8;
   padding : 40px 100px;
+}
+
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #282c34;
+  color: white;
 }
